@@ -1,11 +1,12 @@
-# Installation {#installation}
+# Installasjon {#installation}
 
-When we refer to "Python 3" in this book, we will be referring to any version of Python equal to or greater than version [Python {{ book.pythonVersion }}](https://www.python.org/downloads/).
+Når vi sier "Python 3" i denne boken, mener vi enhver versjon av Python some er av versjon 3 eller høyere [Python {{ book.pythonVersion }}](https://www.python.org/downloads/).
 
-## Installation on Windows
+## Installasjon på Windows
 
-Visit https://www.python.org/downloads/ and download the latest version. At the time of this writing, it was Python 3.5.1 
-The installation is just like any other Windows-based software.
+Besøk https://www.python.org/downloads/ og last ned siste versjon. Da denne boken ble skrevet, var det Python 3.5.1 
+Installasjonen er som for all annen Windows-basert programmvare.
+
 
 CAUTION: Make sure you check option `Add Python 3.5 to PATH`.
 
