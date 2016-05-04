@@ -1,6 +1,6 @@
-# A Byte of Python
+# En liten bit Python
 
-"A Byte of Python" er en gratis bok om programmeringsspråket Python. Den er ment som en guide og veileder til programmering med Python for nybegynnere. Hvis alt du vet om datamaskiner er hvordan å lagre tekstfiler, så er denne boken for deg.
+"En liten bit Python" er en gratis bok om programmeringsspråket Python. Den er ment som en guide og veileder til programmering med Python for nybegynnere. Hvis alt du vet om datamaskiner er hvordan å lagre tekstfiler, så er denne boken for deg.
 
 <!-- is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you. -->
 
@@ -11,7 +11,7 @@ Denne boken vil lære deg å bruke Python versjon 3. Den inneholder også veiled
 <!-- This book will teach you to use Python version 3. There will also be guidance for you to adapt to the older and more common Python version 2 in the book. -->
 
 <!-- ## Who reads A Byte of Python? {#who-reads-bop} -->
-## Hvem leser "A Byte of Python?"
+## Hvem leser "En liten bit Python"?
 
 <!-- Here are what people are saying about the book: -->
 Her er hva folk sier om boken:
