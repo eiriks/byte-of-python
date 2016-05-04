@@ -269,7 +269,7 @@ Vennligs merk deg følgende:
 <!-- - Please do *not* sell electronic or printed copies of the book unless you have clearly and prominently mentioned in the description that these copies are *not* from the original author of this book. -->
 <!-- - Attribution *must* be shown in the introductory description and front page of the document by linking back to {{ book.officialUrl }} and clearly indicating that the original text can be fetched from this location. -->
 
-- Vennligst *ikke* selg elektroniske kopier eller utskrifter av boken med mindre du klart og tydelig formidler i beskrivelsen at disse kopiene *ikke* er fra den opprinnelige forfatteren av denne boken.
+- Vennligst *ikke* selg elektroniske kopier eller utskrifter av boken med mindre du klart og tydelig formidlet i beskrivelsen at disse kopiene *ikke* er fra den opprinnelige forfatteren av denne boken.
 - Tilskrivelse *må* vises i den innledende beskrivelsen og forsiden av dokumentet, ved å lenke tilbake til http://python.swaroopch.com og tydelig indikere at den originale teksten kan finnes på denne nettadressen.
 
 <!-- - All the code/scripts provided in this book is licensed under the [3-clause BSD License](http://www.opensource.org/licenses/bsd-license.php) unless otherwise noted. -->
@@ -289,7 +289,7 @@ En papirutgave av boken på engelsk kan kjøpes på http://www.swaroopch.com/buy
 <!-- ## Download -->
 ## Last ned (på engelsk)
 
-Visit {{ book.downloadUrl }} for the following types of downloads:
+<!-- Visit {{ book.downloadUrl }} for the following types of downloads: -->
 Besøk https://www.gitbook.com/book/swaroopch/byte-of-python/details for følgende typer nedlastinger:
 
 - [PDF (for desktop, etc.)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
