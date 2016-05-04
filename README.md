@@ -305,6 +305,6 @@ Besøk https://github.com/swaroopch/byte-of-python for å finne råmaterialet ti
 <!-- ## Read the book in your native language -->
 ## Les boken på ditt morsmål
 
-Hvis du er interessert i å lese eller å bidra til oversettelse av denne boken til andre språk, vennligst gå til seksjonen [Translation](http://python.swaroopch.com/translations.html#translations) i den originale engelske utgaven av denne boken.
+Hvis du er interessert i å lese eller å bidra til oversettelse av denne boken til andre språk, vennligst gå til seksjonen  [Translation](http://python.swaroopch.com/translations.html#translations) i den originale engelske utgaven av denne boken.
 <!-- If you are inte
 rested in reading or contributing translations of this book to other human languages, please see [Translations](./translations.md#translations). -->
