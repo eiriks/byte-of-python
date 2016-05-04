@@ -7,18 +7,17 @@ Når vi sier "Python 3" i denne boken, mener vi enhver versjon av Python some er
 Besøk https://www.python.org/downloads/ og last ned siste versjon. Da denne boken ble skrevet, var det Python 3.5.1 
 Installasjonen er som for all annen Windows-basert programmvare.
 
+OBS: Forsikre deg at du markerer valget `Add Python 3.5 to PATH` (`Legg til Python 3.5 i PATH`).
 
-CAUTION: Make sure you check option `Add Python 3.5 to PATH`.
+For å endre innstallasjonplassering, klikk på `Customize installation` (`Avansert installasjon`), så `Next` ( `Neste`) og skriv inn `C:\python35` som plassering.
 
-To change install location, click on `Customize installation`, then `Next` and enter `C:\python35` as install location.
+If den ikke allerede er valgt, velg `Add Python to environment variables` (`Legg til Python i miljøvariablene`). Dette gjør det samme som `Add Python 3.5 to PATH` på første skjermbilde i installasjonsprosessen.
 
-If not checked, check `Add Python to environment variables`. This does the same thing as `Add Python 3.5 to PATH` on the first install screen.
+Du kan velge om du vil installere Launcher for alle brukere eller ikke, dette er ikke veldig viktig. Launcher brukes til å bytte mellom forskjellige installerte versjoner av Python.
 
-You can choose to install Launcher for all users or not, it does not matter much. Launcher is used to switch between different versions of Python installed.
+Hvis siten din (path) ikke er satt riktig, så kan du følge de neste stegene for å fikse det. Ellers, hopp til `Running Python prompt on Windows` (`Kjøre Python kommandolinje på Windows`).
 
-If your path was not set correctly, then follow these steps to fix it. Otherwise, go to `Running Python prompt on Windows`.
-
-NOTE: For people who already know programming, if you are familiar with Docker, check out [Python in Docker](https://hub.docker.com/_/python/) and [Docker on Windows](https://docs.docker.com/windows/).
+MERK: For folk som allerede kan programmere, hvis du er kjent med Docker, sjekk ut [Python in Docker](https://hub.docker.com/_/python/) og [Docker on Windows](https://docs.docker.com/windows/).
 
 ### DOS Prompt {#dos-prompt}
 
