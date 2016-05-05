@@ -1,10 +1,16 @@
-# First Steps
+<!-- # First Steps -->
+# Første skritt
 
-We will now see how to run a traditional 'Hello World' program in Python. This will teach you how to write, save and run Python programs.
+<!-- We will now see how to run a traditional 'Hello World' program in Python. This will teach you how to write, save and run Python programs.
 
-There are two ways of using Python to run your program - using the interactive interpreter prompt or using a source file. We will now see how to use both of these methods.
+There are two ways of using Python to run your program - using the interactive interpreter prompt or using a source file. We will now see how to use both of these methods. -->
+Vi skal nå se hvordan vi kjører et tradisjonellt 'Hello World'-program i Python. Dette vil lære deg å skrive, lagre og kjøre Pythonprogrammer.
 
-## Using The Interpreter Prompt
+Det er to måter å bruke Python til å kjøre dine program, enten ved å bruke den interaktive fortolkeren (´interpreter´) eller ved å bruke en kildefil. Vi skal se hvordan begge disse metodene brukes.
+
+
+<!-- ## Using The Interpreter Prompt -->
+## Aruk av ... The Interpreter Prompt?
 
 Open the terminal in your operating system (as discussed previously in the [Installation](./installation.md#installation) chapter) and then open the Python prompt by typing `python3` and pressing `[enter]` key.
 
