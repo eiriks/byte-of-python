@@ -1,10 +1,17 @@
-Min første overskrift er: 
+Min første overskrift er:
 # Installation {#installation}
 Skal jeg oversette siste biten? "{#installation}"?
+- Nei.
 
-Ord/konvensjoner: 
+Ord/konvensjoner:
 compile			kompilere
 Byte of Python		En liten bit Python
 CAUTION:	     	OBS:
 NOTE:			MERK:
-prompt			kommandolinje 
+prompt			kommandolinje
+interpreter     tolk
+
+
+
+The Interpreter Prompt      ???
+statement                   ??? uttrykk, anvisning

@@ -10,21 +10,27 @@ Det er to måter å bruke Python til å kjøre dine program, enten ved å bruke 
 
 
 <!-- ## Using The Interpreter Prompt -->
-## Aruk av ... The Interpreter Prompt?
+## Bruk av det tolkende promptet ???
 
-Open the terminal in your operating system (as discussed previously in the [Installation](./installation.md#installation) chapter) and then open the Python prompt by typing `python3` and pressing `[enter]` key.
+<!-- Open the terminal in your operating system (as discussed previously in the [Installation](./installation.md#installation) chapter) and then open the Python prompt by typing `python3` and pressing `[enter]` key. -->
+Åpne terminal i operativsystemet ditt (som diskutert tidligere i kappitellet om [instalasjon](./installation.md#installation)) og start Python promptet ved å skrive inn `python3` og trykke `[enter]` tasten.
 
-Once you have started Python, you should see `>>>` where you can start typing stuff. This is called the _Python interpreter prompt_.
+<!-- Once you have started Python, you should see `>>>` where you can start typing stuff. This is called the _Python interpreter prompt_. -->
+Når du har startet Python skal du se `>>>` hvor du kan starte å skrive inn ting. Dette heter _Python tolker promptet_.
 
-At the Python interpreter prompt, type:
+<!-- At the Python interpreter prompt, type: -->
+I Python tolker promptet, skriv:
 
 ```python
 print("Hello World")
 ```
 
-followed by the `[enter]` key. You should see the words `Hello World` printed to the screen.
+<!-- followed by the `[enter]` key. You should see the words `Hello World` printed to the screen. -->
+etterfulgt av `[enter]` tasten. Du burde se ordene `Hello World` skrevet til skjermen.
 
-Here is an example of what you should be seeing, when using a Mac OS X computer. The details about the Python software will differ based on your computer, but the part from the prompt (i.e. from `>>>` onwards) should be the same regardless of the operating system.
+<!-- Here is an example of what you should be seeing, when using a Mac OS X computer. The details about the Python software will differ based on your computer, but the part from the prompt (i.e. from `>>>` onwards) should be the same regardless of the operating system. -->
+Her er et eksempel på hva du burde se, når man bruker en Mac OS X datamaskin. Detaljene om Python programvaren kan være litt ulikt basert på hva slags datamaskin du har, men den delen fra promptet (altså fra `>>>` og videre) skal være det samme uansett hva slags operativsystem du bruker.
+
 
 <!-- The output should match pythonVersion variable in book.json -->
 ```python
