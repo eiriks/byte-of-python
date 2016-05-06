@@ -42,15 +42,20 @@ Type "help", "copyright", "credits" or "license" for more information.
 Hello World
 ```
 
-Notice that Python gives you the output of the line immediately! What you just entered is a single Python _statement_. We use `print` to (unsurprisingly) print any value that you supply to it. Here, we are supplying the text `Hello World` and this is promptly printed to the screen.
+<!-- Notice that Python gives you the output of the line immediately! What you just entered is a single Python _statement_. We use `print` to (unsurprisingly) print any value that you supply to it. Here, we are supplying the text `Hello World` and this is promptly printed to the screen. -->
+Legg merke til at Python gir deg tilbakemelding øyeblikkelig! Det du just sente inn er et enkelt Python _statement_. Vi bruker `print` til å skrive ut en hvilkensomhelst verdi som du forer inn i print-statementet. Her putter vi inn teksten `Hello World` og dette skrive øyeblikkelig ut til skjermen.
 
-### How to Quit the Interpreter Prompt
+<!-- ### How to Quit the Interpreter Prompt -->
+### Hvordan avslutte det tolkende promptet
 
-If you are using a GNU/Linux or OS X shell, you can exit the interpreter prompt by pressing `[ctrl + d]` or entering `exit()` (note: remember to include the parentheses, `()`) followed by the `[enter]` key.
+<!-- If you are using a GNU/Linux or OS X shell, you can exit the interpreter prompt by pressing `[ctrl + d]` or entering `exit()` (note: remember to include the parentheses, `()`) followed by the `[enter]` key. -->
+Hvis du bruker et GNU/Linux eller OS X skall (shell), kan du lukke tolkeren ved å trykke `[ctrl + d]` eller skirve inn `exit()` (merk: husk på ta med parentesene, `()`) etter fulgt av `[enter]` teasten.
 
-If you are using the Windows command prompt, press `[ctrl + z]` followed by the `[enter]` key.
+<!-- If you are using the Windows command prompt, press `[ctrl + z]` followed by the `[enter]` key. -->
+Hvis du bruker Windows kommandolinje, trykk `[ctrl + z]` etter fulgt av `[enter]` tasten.
 
-## Choosing An Editor
+<!-- ## Choosing An Editor -->
+## Valg av Editor
 
 We cannot type out our program at the interpreter prompt every time we want to run something, so we have to save them in files and can run our programs any number of times.
 

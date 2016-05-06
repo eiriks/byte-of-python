@@ -12,6 +12,8 @@ prompt			kommandolinje
 interpreter     tolk
 
 
+Begrep som kanskje kan diskuteres:
 
 The Interpreter Prompt      ???
 statement                   ??? uttrykk, anvisning
+shell                       skall, (eller terminal for forenklingens skyld?)??
